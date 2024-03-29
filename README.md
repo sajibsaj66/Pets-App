@@ -1,16 +1,16 @@
 # pets_app
 
-Utilized Packages:\n
-firebase_auth\n
-firebase_core\n
-firebase_storage\n
-flutter_staggered_grid_view\n
-image_picker\n
-cloud_firestore\n
-gallery_saver\n
-lottie\n
-url_launcher\n
-shared_preference\n
+Utilized Packages:
+firebase_auth
+firebase_core
+firebase_storage
+flutter_staggered_grid_view
+image_picker
+cloud_firestore
+gallery_saver
+lottie
+url_launcher
+shared_preference
 
 
 API Link:- https://thecatapi.com/
