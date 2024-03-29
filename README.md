@@ -7,10 +7,21 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+Flutter Pets App! 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Utilized Packages:
+firebase_auth
+firebase_core
+firebase_storage
+flutter_staggered_grid_view
+image_picker
+cloud_firestore
+gallery_saver
+lottie
+url_launcher
+shared_preference
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+API Link:- https://thecatapi.com/
+
+
